@@ -1,0 +1,5 @@
+package pcswapobjects.request.swap
+
+import pcswapobjects.request.NoSessionPayload
+
+class GetTotalSwapCountRequest: NoSessionPayload
